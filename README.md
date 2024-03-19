@@ -1,7 +1,6 @@
 # eventbooking
 A ticketting system for events that lets admin add, edit and remove events and let's user book events.
 
-
 ADMIN LOGIN
 username- admin
 password- admin
